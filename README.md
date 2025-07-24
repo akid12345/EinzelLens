@@ -2,4 +2,4 @@
 
 # Example Output
 
-![Einzel Lenses](https://github.com/akid12345/Warp/blob/main/WDrive.gif)
+![Einzel Lenses](https://github.com/akid12345/EinzelLens/blob/main/EinzelLens.gif)
